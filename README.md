@@ -1,0 +1,1 @@
+Herkese Merhaba! Ben Kağan ve buda ilk c# projem. Biliyorum daha bu yolun başındayım ve neler yapabileceğime inanıyorum, bu şekilde projelerimi burada paylaşarak hem bir anı hemde bir kütüphane oluşturmak istiyorum.
